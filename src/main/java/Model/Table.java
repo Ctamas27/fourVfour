@@ -17,64 +17,6 @@ public class Table {
     int coordinateX = 0;
     int coordinateY = 0;
 
-    public void setCoordinate(char x, char y)
-    {
-        coordinateX = Character.getNumericValue(x);
-        coordinateY = Character.getNumericValue(y);
-
-        logger.info("coordinate x and y are set");
-    }
-    public void setOldCoordinate(char x, char y)
-    {
-        oldCoordinateX = Character.getNumericValue(x);
-        oldCoordinateY = Character.getNumericValue(y);
-
-        logger.info("old coordinate x and y are set");
-    }
-
-    public int getOldCoordinateX()
-    {
-        logger.info("getting old coordinate x");
-        return oldCoordinateX;
-    }
-
-    public int getOldCoordinateY()
-    {
-        logger.info("getting old coordinate y");
-        return oldCoordinateY;
-    }
-
-    public void move()
-    {
-        oldCoordinateX = coordinateX;
-        oldCoordinateY = coordinateY;
-        logger.info("move coordinates to old coordinates");
-    }
-
-    public void setCurrentPlayer(Paint p)
-    {
-        player = p;
-        logger.info("set current player to " + p);
-    }
-
-    public Paint getCurrentPlayer()
-    {
-        logger.info("getting current player");
-        return player;
-    }
-
-    public void setCurrentColor(Paint color)
-    {
-        logger.info("set paint color: " + color);
-        currentColor = color;
-    }
-
-    public Paint getCurrentColor()
-    {
-        logger.info("getting current color");
-        return currentColor;
-    }
-
     /**
      * generating the starting table
      * @return table is the already generated table ready to begin the game
@@ -199,6 +141,64 @@ public class Table {
         }
 
         return victoryState;
+    }
+
+    public void setCoordinate(char x, char y)
+    {
+        coordinateX = Character.getNumericValue(x);
+        coordinateY = Character.getNumericValue(y);
+
+        logger.info("coordinate x and y are set");
+    }
+    public void setOldCoordinate(char x, char y)
+    {
+        oldCoordinateX = Character.getNumericValue(x);
+        oldCoordinateY = Character.getNumericValue(y);
+
+        logger.info("old coordinate x and y are set");
+    }
+
+    public int getOldCoordinateX()
+    {
+        logger.info("getting old coordinate x");
+        return oldCoordinateX;
+    }
+
+    public int getOldCoordinateY()
+    {
+        logger.info("getting old coordinate y");
+        return oldCoordinateY;
+    }
+
+    public void move()
+    {
+        oldCoordinateX = coordinateX;
+        oldCoordinateY = coordinateY;
+        logger.info("move coordinates to old coordinates");
+    }
+
+    public void setCurrentPlayer(Paint p)
+    {
+        player = p;
+        logger.info("set current player to " + p);
+    }
+
+    public Paint getCurrentPlayer()
+    {
+        logger.info("getting current player");
+        return player;
+    }
+
+    public void setCurrentColor(Paint color)
+    {
+        logger.info("set paint color: " + color);
+        currentColor = color;
+    }
+
+    public Paint getCurrentColor()
+    {
+        logger.info("getting current color");
+        return currentColor;
     }
 
 }

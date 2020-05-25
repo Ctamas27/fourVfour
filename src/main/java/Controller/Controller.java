@@ -194,7 +194,7 @@ public class Controller extends MyApplication {
 
 
 
-        try (FileWriter file = new FileWriter("T:/Suli/Szoftverfejlesztes/fourVfour/src/main/resources/json/names.json")) {
+        try (FileWriter file = new FileWriter("src/main/resources/json/names.json")) {
             file.write(userList.toString());
         } catch(Exception e){
             System.out.println(e);

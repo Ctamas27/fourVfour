@@ -15,6 +15,12 @@
             <email>ctamas27@gmail.com</email>
         </developer>
     </developers>
+    <scm>
+        <connection>scm:git:https://github.com/ctamas27/fourVfour.git</connection>
+        <developerConnection>scm:git:https://github.com/ctamas27/fourVfour.git</developerConnection>
+    </scm>
+    <description>Different implementation of a well know four in a row game type, played on a 4 by 5 grid, 2 players couch style by the same passing control, each players ahs it's own color
+        the goal is to get your own 4 circle in a row</description>
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <project.build.outputEncoding>UTF-8</project.build.outputEncoding>
