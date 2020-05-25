@@ -5,7 +5,6 @@ import Model.Table;
 import javafx.fxml.FXML;
 import javafx.scene.control.TextField;
 import javafx.scene.input.MouseEvent;
-import javafx.scene.layout.GridPane;
 import javafx.scene.layout.Pane;
 import javafx.scene.paint.Paint;
 import javafx.scene.shape.Circle;
@@ -221,7 +220,7 @@ public class Controller extends MyApplication {
         stage.close();
     }
 
-    public void initialize()
+    public void reset()
     {
         tabla = Table.generateTable();
         first = TRUE;
@@ -250,7 +249,7 @@ public class Controller extends MyApplication {
     @FXML
     private void restart()
     {
-        initialize();
+        reset();
         winner.setVisible(false);
     }
 

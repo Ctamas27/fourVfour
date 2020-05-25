@@ -2,25 +2,25 @@ cmd.exe
 /X
 /C
 ""C:\Program Files\Java\jdk-11.0.7\bin\javadoc.exe" @options @packages"
-T:\Suli\Szoftverfejlesztes\fourVfour\target\site\apidocs\allclasses-index.html = 1590401801110
-T:\Suli\Szoftverfejlesztes\fourVfour\target\site\apidocs\allclasses.html = 1590401801157
-T:\Suli\Szoftverfejlesztes\fourVfour\target\site\apidocs\allpackages-index.html = 1590401801124
-T:\Suli\Szoftverfejlesztes\fourVfour\target\site\apidocs\constant-values.html = 1590401800907
-T:\Suli\Szoftverfejlesztes\fourVfour\target\site\apidocs\deprecated-list.html = 1590401801141
-T:\Suli\Szoftverfejlesztes\fourVfour\target\site\apidocs\element-list = 1590401800794
-T:\Suli\Szoftverfejlesztes\fourVfour\target\site\apidocs\help-doc.html = 1590401801187
-T:\Suli\Szoftverfejlesztes\fourVfour\target\site\apidocs\index-all.html = 1590401801093
-T:\Suli\Szoftverfejlesztes\fourVfour\target\site\apidocs\index.html = 1590401801164
-T:\Suli\Szoftverfejlesztes\fourVfour\target\site\apidocs\member-search-index.js = 1590401801087
-T:\Suli\Szoftverfejlesztes\fourVfour\target\site\apidocs\member-search-index.zip = 1590401801088
-T:\Suli\Szoftverfejlesztes\fourVfour\target\site\apidocs\options = 1590401798371
-T:\Suli\Szoftverfejlesztes\fourVfour\target\site\apidocs\overview-summary.html = 1590401801178
-T:\Suli\Szoftverfejlesztes\fourVfour\target\site\apidocs\overview-tree.html = 1590401801051
-T:\Suli\Szoftverfejlesztes\fourVfour\target\site\apidocs\package-search-index.js = 1590401801073
-T:\Suli\Szoftverfejlesztes\fourVfour\target\site\apidocs\package-search-index.zip = 1590401801076
-T:\Suli\Szoftverfejlesztes\fourVfour\target\site\apidocs\packages = 1590401798372
-T:\Suli\Szoftverfejlesztes\fourVfour\target\site\apidocs\script.js = 1590401801207
-T:\Suli\Szoftverfejlesztes\fourVfour\target\site\apidocs\search.js = 1590401801209
-T:\Suli\Szoftverfejlesztes\fourVfour\target\site\apidocs\stylesheet.css = 1590401801202
-T:\Suli\Szoftverfejlesztes\fourVfour\target\site\apidocs\type-search-index.js = 1590401801081
-T:\Suli\Szoftverfejlesztes\fourVfour\target\site\apidocs\type-search-index.zip = 1590401801082
+T:\Suli\Szoftverfejlesztes\fourVfour\target\site\apidocs\allclasses-index.html = 1590406739939
+T:\Suli\Szoftverfejlesztes\fourVfour\target\site\apidocs\allclasses.html = 1590406739990
+T:\Suli\Szoftverfejlesztes\fourVfour\target\site\apidocs\allpackages-index.html = 1590406739955
+T:\Suli\Szoftverfejlesztes\fourVfour\target\site\apidocs\constant-values.html = 1590406739708
+T:\Suli\Szoftverfejlesztes\fourVfour\target\site\apidocs\deprecated-list.html = 1590406739974
+T:\Suli\Szoftverfejlesztes\fourVfour\target\site\apidocs\element-list = 1590406739519
+T:\Suli\Szoftverfejlesztes\fourVfour\target\site\apidocs\help-doc.html = 1590406740026
+T:\Suli\Szoftverfejlesztes\fourVfour\target\site\apidocs\index-all.html = 1590406739920
+T:\Suli\Szoftverfejlesztes\fourVfour\target\site\apidocs\index.html = 1590406739998
+T:\Suli\Szoftverfejlesztes\fourVfour\target\site\apidocs\member-search-index.js = 1590406739909
+T:\Suli\Szoftverfejlesztes\fourVfour\target\site\apidocs\member-search-index.zip = 1590406739914
+T:\Suli\Szoftverfejlesztes\fourVfour\target\site\apidocs\options = 1590406737682
+T:\Suli\Szoftverfejlesztes\fourVfour\target\site\apidocs\overview-summary.html = 1590406740016
+T:\Suli\Szoftverfejlesztes\fourVfour\target\site\apidocs\overview-tree.html = 1590406739870
+T:\Suli\Szoftverfejlesztes\fourVfour\target\site\apidocs\package-search-index.js = 1590406739895
+T:\Suli\Szoftverfejlesztes\fourVfour\target\site\apidocs\package-search-index.zip = 1590406739898
+T:\Suli\Szoftverfejlesztes\fourVfour\target\site\apidocs\packages = 1590406737683
+T:\Suli\Szoftverfejlesztes\fourVfour\target\site\apidocs\script.js = 1590406740048
+T:\Suli\Szoftverfejlesztes\fourVfour\target\site\apidocs\search.js = 1590406740050
+T:\Suli\Szoftverfejlesztes\fourVfour\target\site\apidocs\stylesheet.css = 1590406740042
+T:\Suli\Szoftverfejlesztes\fourVfour\target\site\apidocs\type-search-index.js = 1590406739903
+T:\Suli\Szoftverfejlesztes\fourVfour\target\site\apidocs\type-search-index.zip = 1590406739905

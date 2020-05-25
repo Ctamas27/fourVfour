@@ -1,0 +1,22 @@
+-encoding
+'UTF-8'
+-protected
+-sourcepath
+'T:/Suli/Szoftverfejlesztes/fourVfour/src/main/java;T:/Suli/Szoftverfejlesztes/fourVfour/target/generated-sources/annotations'
+-author
+-bottom
+'Copyright &#169; 2020. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'T:/Suli/Szoftverfejlesztes/fourVfour/target/site-webapp/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'fourVfour 1.0-SNAPSHOT API'
+-linkoffline
+'https://docs.oracle.com/en/java/javase/11/docs/api' 'T:/Suli/Szoftverfejlesztes/fourVfour/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'fourVfour 1.0-SNAPSHOT API'

@@ -1,4 +1,4 @@
-# Created at 2020-05-25T12:10:57.817
+# Created at 2020-05-25T13:37:57.776
 Boot Manifest-JAR contains absolute paths in classpath 'T:\Suli\Szoftverfejlesztes\fourVfour\target\test-classes'
 Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
 

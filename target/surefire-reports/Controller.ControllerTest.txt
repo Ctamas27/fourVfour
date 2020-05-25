@@ -1,8 +1,0 @@
--------------------------------------------------------------------------------
-Test set: Controller.ControllerTest
--------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.058 s <<< FAILURE! - in Controller.ControllerTest
-endGame  Time elapsed: 0.056 s  <<< ERROR!
-java.lang.NullPointerException
-	at Controller.ControllerTest.endGame(ControllerTest.java:23)
-
